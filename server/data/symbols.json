@@ -1,0 +1,117 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "market": "NASDAQ",
+    "closePrice": 180.12
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corp.",
+    "market": "NASDAQ",
+    "closePrice": 323.45
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc.",
+    "market": "NASDAQ",
+    "closePrice": 141.23
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "market": "NASDAQ",
+    "closePrice": 132.55
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "market": "NASDAQ",
+    "closePrice": 243.22
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "market": "NASDAQ",
+    "closePrice": 289.76
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix Inc.",
+    "market": "NASDAQ",
+    "closePrice": 433.99
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corp.",
+    "market": "NASDAQ",
+    "closePrice": 789.0
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "market": "NYSE",
+    "closePrice": 158.73
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "market": "NYSE",
+    "closePrice": 245.33
+  },
+  {
+    "symbol": "BTC-USD",
+    "name": "Bitcoin / USD",
+    "market": "Crypto",
+    "closePrice": 29000.0
+  },
+  {
+    "symbol": "ETH-USD",
+    "name": "Ethereum / USD",
+    "market": "Crypto",
+    "closePrice": 1850.45
+  },
+  {
+    "symbol": "DOGE-USD",
+    "name": "Dogecoin / USD",
+    "market": "Crypto",
+    "closePrice": 0.076
+  },
+  {
+    "symbol": "XRP-USD",
+    "name": "Ripple / USD",
+    "market": "Crypto",
+    "closePrice": 0.62
+  },
+  {
+    "symbol": "SPY",
+    "name": "S&P 500 ETF",
+    "market": "NYSEARCA",
+    "closePrice": 456.12
+  },
+  {
+    "symbol": "QQQ",
+    "name": "NASDAQ 100 ETF",
+    "market": "NASDAQ",
+    "closePrice": 385.21
+  },
+  {
+    "symbol": "BABA",
+    "name": "Alibaba Group",
+    "market": "NYSE",
+    "closePrice": 98.6
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart Inc.",
+    "market": "NYSE",
+    "closePrice": 162.85
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corp.",
+    "market": "NASDAQ",
+    "closePrice": 34.76
+  },
+  { "symbol": "T", "name": "AT&T Inc.", "market": "NYSE", "closePrice": 16.75 }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 4,
+    "symbol": "INTC",
+    "side": "BUY",
+    "qty": 300,
+    "price": 32.19,
+    "timestamp": 1756633345
+  }
+]

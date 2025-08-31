@@ -1,0 +1,10 @@
+[
+  {
+    "id": 2,
+    "symbol": "NFLX",
+    "side": "BUY",
+    "qty": 100,
+    "price": 400,
+    "timestamp": 1756631270
+  }
+]
