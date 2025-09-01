@@ -13,6 +13,7 @@ import SymbolSelector from "./SymbolSelector";
 import LiveTicker from "./LiveTicker";
 import OrderForm from "./OrderForm";
 import OrdersTable from "./OrdersTable";
+import ChartDisplay from "./ChartDisplay";
 
 const TradingDashboard: React.FC = () => {
   const connectionStatus = useAppSelector(
@@ -63,6 +64,9 @@ const TradingDashboard: React.FC = () => {
               <OrderForm />
             </Paper>
           </Box>
+
+          {/* Charts */}
+          <ChartDisplay />
 
           {/* Orders Table */}
           <Paper sx={{ p: 2 }}>

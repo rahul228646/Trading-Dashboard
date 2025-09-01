@@ -13,7 +13,7 @@ export const useWebSocket = () => {
   const { selectedSymbol } = useAppSelector((state) => state.symbols);
   const wsRef = useRef<WebSocket | null>(null);
   const reconnectAttemptsRef = useRef(0);
-  const reconnectTimeoutRef = useRef<number | null>(null);
+  const reconnectTimeoutRef = useRef<NodeJS.Timeout>(null);
 
   const connect = useCallback(() => {
     if (wsRef.current?.readyState === WebSocket.OPEN) return;
